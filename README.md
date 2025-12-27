@@ -62,7 +62,7 @@ mangadex-explorer/
 ├── server.js      # Express server & API proxy logic
 ├── package.json   # Project dependencies and scripts
 └── README.md      # Project documentation
----
+
 Dependencies
 Express: Minimalist web framework for Node.js.
 
