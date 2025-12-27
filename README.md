@@ -54,6 +54,9 @@ Toggle Light/Dark mode using the button in the header.
 Project Structure
 Plaintext
 
+## Project Structure
+
+```text
 mangadex-explorer/
 │
 ├── index.html     # Main frontend structure
@@ -62,6 +65,8 @@ mangadex-explorer/
 ├── server.js      # Express server & API proxy logic
 ├── package.json   # Project dependencies and scripts
 └── README.md      # Project documentation
+
+---
 
 Dependencies
 Express: Minimalist web framework for Node.js.
