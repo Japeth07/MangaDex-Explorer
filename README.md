@@ -55,7 +55,7 @@ Project Structure
 Plaintext
 
 mangadex-explorer/
-│
+
 ├── index.html     # Main frontend structure
 ├── style.css      # Layout, responsiveness, and theme styling
 ├── script.js     # Frontend logic and DOM manipulation
