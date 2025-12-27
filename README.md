@@ -55,13 +55,14 @@ Project Structure
 Plaintext
 
 mangadex-explorer/
-
+│
 ├── index.html     # Main frontend structure
 ├── style.css      # Layout, responsiveness, and theme styling
 ├── script.js     # Frontend logic and DOM manipulation
 ├── server.js      # Express server & API proxy logic
 ├── package.json   # Project dependencies and scripts
 └── README.md      # Project documentation
+---
 Dependencies
 Express: Minimalist web framework for Node.js.
 
