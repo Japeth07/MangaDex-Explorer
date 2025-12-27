@@ -1,10 +1,10 @@
-# 📚 MangaDex-Explorer
+# MangaDex-Explorer
 
 MangaDex-Explorer is a clean, responsive web application that allows users to explore the vast library of manga available on MangaDex. Users can search for specific titles, view high-quality cover art, and browse chapter lists with direct links to read on MangaDex.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dynamic Search:** Search for any manga title via the MangaDex API.
 - **Rich Visuals:** High-resolution display of manga cover images.
@@ -18,7 +18,7 @@ MangaDex-Explorer is a clean, responsive web application that allows users to ex
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 Follow these steps to get your local development environment running:
 
@@ -35,7 +35,7 @@ Install dependencies:
 Bash
 
 npm install
-🚀 Usage
+Usage
 Start the server:
 
 Bash
@@ -51,7 +51,7 @@ Click a manga card to see covers and chapters.
 
 Toggle Light/Dark mode using the button in the header.
 
-📁 Project Structure
+Project Structure
 Plaintext
 
 mangadex-explorer/
@@ -62,14 +62,14 @@ mangadex-explorer/
 ├── server.js      # Express server & API proxy logic
 ├── package.json   # Project dependencies and scripts
 └── README.md      # Project documentation
-📦 Dependencies
+Dependencies
 Express: Minimalist web framework for Node.js.
 
 node-fetch v2: A light-weight module that brings window.fetch to Node.js for API requests.
 
 CORS: Middleware to enable Cross-Origin Resource Sharing.
 
-📖 API References
+API References
 This project utilizes the following MangaDex API endpoints:
 
 [suspicious link removed]: Core API reference.
